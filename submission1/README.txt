@@ -1,8 +1,8 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/yTCnMBXi-OA
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1-UKjCLEjBU0z72ieQgKDE-ZUdNUDbUkB/edit?usp=sharing&ouid=109594159709575784878&rtpof=true&sd=true
 
 Paper title:
 Malicious Domain Detection using NLP Methods
